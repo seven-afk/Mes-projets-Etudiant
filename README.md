@@ -4,7 +4,7 @@ Voici mes projets etudiant
 
 Spirits Savior 
 
-Rogue like 2d au nombreuses mecaniques
+Rogue like 2d aux nombreuses mecaniques
 
 https://drive.google.com/file/d/1u36s6wE5Dpxlc58WaR9JEgctBgbQwz05/view?usp=sharing
 
